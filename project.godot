@@ -12,3 +12,12 @@ _global_script_classes=[  ]
 _global_script_class_icons={
 
 }
+
+[application]
+
+config/name="Capture the flag"
+run/main_scene="res://World.tscn"
+
+[rendering]
+
+quality/driver/driver_name="GLES2"
