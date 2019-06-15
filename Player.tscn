@@ -7,6 +7,9 @@ radius = 110.0
 height = 220.0
 
 [node name="Player" type="KinematicBody2D"]
+__meta__ = {
+"_edit_group_": true
+}
 
 [node name="Sprite" type="Sprite" parent="."]
 texture = ExtResource( 1 )
