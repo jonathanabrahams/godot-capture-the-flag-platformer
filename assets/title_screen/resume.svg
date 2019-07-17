@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="156"
+   height="64"
+   viewBox="0 0 41.274999 16.933333"
+   version="1.1"
+   id="svg65237"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   sodipodi:docname="resume.svg"
+   inkscape:export-filename="/home/jonathana/GameDev/godot-capture-the-flag-platformer/assets/title_screen/resume.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs65231">
+    <linearGradient
+       id="id630"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#id177"
+       x1="764.98419"
+       y1="688.82074"
+       x2="764.98444"
+       y2="723.11328"
+       gradientTransform="scale(0.60609153,1.6499158)" />
+    <linearGradient
+       id="id177"
+       gradientUnits="userSpaceOnUse"
+       x1="870.82202"
+       y1="778.50098"
+       x2="870.82501"
+       y2="842.492">
+      <stop
+         offset="0"
+         style="stop-opacity:1; stop-color:#8EB900"
+         id="stop568" />
+      <stop
+         offset="1"
+         style="stop-opacity:1; stop-color:#C0FB00"
+         id="stop570" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id177"
+       id="linearGradient24789"
+       gradientUnits="userSpaceOnUse"
+       x1="568.46008"
+       y1="875.69971"
+       x2="568.46039"
+       y2="923.69928"
+       gradientTransform="scale(0.76980036,1.2990381)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id177"
+       id="linearGradient24787"
+       gradientUnits="userSpaceOnUse"
+       x1="584.69403"
+       y1="795.38165"
+       x2="584.69427"
+       y2="834.97931"
+       gradientTransform="matrix(0.18516976,0,0,0.37805492,-1.0583314,-156.23125)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id177"
+       id="linearGradient24785"
+       gradientUnits="userSpaceOnUse"
+       x1="659.10944"
+       y1="669.41345"
+       x2="659.10968"
+       y2="702.73981"
+       gradientTransform="matrix(0.15584357,0,0,0.44919619,-1.0583314,-156.23125)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id177"
+       id="linearGradient24781"
+       gradientUnits="userSpaceOnUse"
+       x1="457.58359"
+       y1="859.11041"
+       x2="457.58389"
+       y2="901.88074"
+       gradientTransform="matrix(0.2000062,0,0,0.35001086,-1.0583314,-156.23125)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#id177"
+       id="linearGradient24783"
+       gradientUnits="userSpaceOnUse"
+       x1="608.24219"
+       y1="688.82074"
+       x2="608.24243"
+       y2="723.11328"
+       gradientTransform="scale(0.60609153,1.6499158)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2147596"
+     inkscape:cx="135.72504"
+     inkscape:cy="143.11605"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="960"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="8"
+     fit-margin-left="8"
+     fit-margin-right="8"
+     fit-margin-bottom="2" />
+  <metadata
+     id="metadata65234">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(7.4083327,-274.51039)"
+     style="display:inline">
+    <g
+       id="g65313"
+       transform="translate(-92.604167,134.93748)"
+       style="display:inline"
+       inkscape:label="g65313">
+      <path
+         id="path14972"
+         class="fil1232"
+         d="m 89.958334,143.54167 v 3.43958 h 0.264583 c 0.264584,0 0.529167,0 0.529167,0 0.264583,-0.26458 0.529167,-0.26458 0.529167,-0.52917 0,-0.26458 0.264583,-0.26458 0.264583,-0.52916 0,-0.26459 0,-0.52917 0,-0.79375 0,0 0,-0.26459 0,-0.52917 0,-0.26458 0,-0.26458 -0.264583,-0.52917 0,-0.26458 -0.264584,-0.26458 -0.529167,-0.26458 0,-0.26458 -0.264583,-0.26458 -0.529167,-0.26458 z m 3.439583,1.32291 c 0,0.52917 0,1.32292 -0.264583,1.85209 -0.264583,0.52916 -0.79375,0.79375 -1.322917,1.32291 l 2.116667,6.08542 0.79375,0.52917 H 92.075001 V 154.125 l -2.38125,-5.82083 v 5.82083 l 0.529166,0.52917 h -2.910416 l 0.529166,-0.52917 v -11.64167 l -0.529166,-0.79375 h 3.175 c 0.529166,0 0.79375,0 1.322916,0.26459 0.264584,0.26458 0.529167,0.52916 0.79375,0.79375 0.264584,0.26458 0.529167,0.52916 0.529167,1.05833 0.264583,0.26458 0.264583,0.79375 0.264583,1.05833 z"
+         style="clip-rule:evenodd;fill:url(#linearGradient24781);fill-rule:nonzero;stroke-width:0.26458332;image-rendering:auto;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         inkscape:connector-curvature="0" />
+      <polygon
+         id="polygon14974"
+         class="fil1232"
+         points="364,1173 361,1175 379,1175 379,1166 376,1169 371,1169 371,1150 376,1150 379,1144 371,1144 371,1133 376,1133 379,1135 379,1126 361,1126 364,1129 364,1144 361,1151 364,1151 "
+         style="clip-rule:evenodd;fill:url(#linearGradient24783);fill-rule:nonzero;image-rendering:auto;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         transform="matrix(0.26458333,0,0,0.26458333,-1.0583324,-156.23125)" />
+      <path
+         id="path14976"
+         class="fil1232"
+         d="m 99.747918,152.5375 0.529162,0.52917 h 1.85209 l -2.381252,-9.26042 v -1.32292 c 0,0 0,0 0,-0.26458 0,0 0.264582,0 0.264582,-0.26458 0,0 0.26458,0 0.26458,-0.26459 0,0 0.26459,0 0.26459,0 h 3.70416 v 2.38125 l -0.79375,-0.52916 H 101.6 l 2.64583,9.26041 v 1.32292 c 0,0 -0.26458,0.26458 -0.26458,0.26458 0,0.26459 -0.26458,0.26459 -0.52917,0.26459 h -3.704162 z"
+         style="clip-rule:evenodd;fill:url(#linearGradient24785);fill-rule:nonzero;stroke-width:0.26458332;image-rendering:auto;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path14978"
+         class="fil1232"
+         d="m 105.03958,142.48333 -0.52916,-0.79375 h 2.91041 l -0.52916,0.79375 v 10.58334 h 1.32291 v -10.58334 l -0.52916,-0.79375 h 3.175 l -0.52917,0.79375 v 11.37709 l 0.52917,0.79375 h -3.96875 c -1.32292,0 -1.85209,-0.26459 -1.85209,-0.52917 z"
+         style="clip-rule:evenodd;fill:url(#linearGradient24787);fill-rule:nonzero;stroke-width:0.26458332;image-rendering:auto;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         inkscape:connector-curvature="0" />
+      <polygon
+         id="polygon14980"
+         class="fil1232"
+         points="424,1126 426,1129 426,1173 424,1175 435,1175 433,1173 433,1156 439,1180 440,1180 446,1156 446,1173 444,1175 456,1175 453,1173 453,1129 456,1126 448,1126 440,1152 431,1126 "
+         style="clip-rule:evenodd;fill:url(#linearGradient24789);fill-rule:nonzero;image-rendering:auto;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         transform="matrix(0.26458333,0,0,0.26458333,-1.0583324,-156.23125)" />
+      <polygon
+         id="polygon14982"
+         class="fil1232"
+         points="459,1173 457,1175 474,1175 474,1166 471,1169 466,1169 466,1150 472,1150 474,1144 466,1144 466,1133 471,1133 474,1135 474,1126 457,1126 459,1129 459,1144 456,1151 459,1151 "
+         style="clip-rule:evenodd;fill:url(#id630);fill-rule:nonzero;image-rendering:auto;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         transform="matrix(0.26458333,0,0,0.26458333,-1.0583324,-156.23125)" />
+    </g>
+  </g>
+</svg>
